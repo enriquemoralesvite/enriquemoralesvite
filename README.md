@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Enrique Morales from Peru
+- 👋 Hi, I’m Enrique Morales from Perú
 - 👀 I’m interested in all realted to technology
 - 🌱 I’m learning more about data sciences
 - 🐱‍🏍 I'm currently working at Globant in the IT fild
