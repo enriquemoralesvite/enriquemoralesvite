@@ -1,3 +1,8 @@
+<h1 align="center">⭐️ Te doy la bienvenida a mi GitHub ⭐️ <h1/>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="github.gif" border="0">
+<p/> 
+
 - 👋 Hi, I’m Enrique Morales from Perú
 - 👀 I’m interested in all realted to technology
 - 🌱 I’m learning more about data sciences
