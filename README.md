@@ -8,8 +8,8 @@
 - 🌱 I’m learning more about data sciences, data analysis and business analysis
 - 🐱‍🏍 I'm currently working at Globant in the IT fild
 - 💞️ I’m looking to collaborate on an intersting project that encorage me to keep learling more and advance my career as a developer.
-- 📫 You can reach out to me in the following email address **enrique.moralesv2@gmail.com** and also you can look up more information about me on my linkedin here 
-  <a href="www.linkedin.com/in/josé-enrique-morales-vite">
+- 📫 You can reach out to me in the following email address **enrique.moralesv2@gmail.com** and also you can look up more information about me on my linkedin [**here**] 
+  (www.linkedin.com/in/josé-enrique-morales-vite/  "here").
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  
 
